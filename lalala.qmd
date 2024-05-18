@@ -1,0 +1,30 @@
+---
+title: "Untitled"
+format: 
+  revealjs:
+    theme: dark
+editor: visual
+execute:
+  echo: true
+---
+
+## lalal
+
+asdasd
+
+## Cod
+
+```{r}
+
+plot(cars)
+```
+
+## Cod
+
+```{r}
+cars |>
+  head() |>
+  knitr::kable()
+```
+
+\
